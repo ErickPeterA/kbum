@@ -1,0 +1,39 @@
+{
+  "itens": [
+    {
+      "id": 1,
+      "nome": "Placa de Vídeo RTX 4070 Ti - Paródia Edition",
+      "marca": "Kabumish",
+      "preco": 5999.9,
+      "foto": "https://via.placeholder.com/400x250.png?text=RTX+4070+Ti",
+      "data": "2025-11-01",
+      "descricao": "Placa fictícia para fins educativos.",
+      "avaliacoes": [
+        5,
+        4,
+        5,
+        4
+      ],
+      "comentarios": [
+        "Perfeita para edição!",
+        "Bom custo-benefício",
+        "erick: interessado"
+      ]
+    },
+    {
+      "nome": "Arm logitech",
+      "marca": "Logitech",
+      "preco": 314.39,
+      "foto": "https://resource.logitechg.com/w_692,c_lpad,ar_4:3,q_auto,f_auto,dpr_1.0/d_transparent.gif/content/dam/gaming/en/products/pro-keyboard/pro-clicky-gallery-1.png?v=1",
+      "data": "2025-05-12",
+      "descricao": "Teclado gamer",
+      "avaliacoes": [
+        3
+      ],
+      "comentarios": [
+        "CUsto beneficio mas deixa a desejar"
+      ],
+      "id": 2
+    }
+  ]
+}
